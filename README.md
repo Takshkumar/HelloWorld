@@ -1,1 +1,1 @@
-# HelloWorld
+In this Web Design course, I would like to learn how to create responsive, modern websites using HTML, CSS, and JavaScript. I aim to improve my design and coding skills to build creative and professional web pages.
